@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+	<AboutMe>
+		<MyKnowledges>
+			<Knowledge in="HTML" value="medium"/>
+			<Knowledge in="CSS3" value="medium"/>
+			<Knowledge in="JSON" value="good"/>
+			<Knowledge in="PHP" value="medium"/>
+			<Knowledge in="JS" value="not good"/>
+			<Knowledge in="HTTP" value="medium"/>
+			<Knowledge in="SQL" value="good"/>
+			<Knowledge in="Swift" value="good"/>
+		</MyKnowledges>	
+		<MyConctacts>
+			<myphone in="+7(988) 212-76-79"/>
+			<myemail in="gajiev.kazim@yabdex.ru"/>
+		</MyConctacts>
+	</AboutMe>
