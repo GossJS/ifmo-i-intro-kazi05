@@ -5,3 +5,5 @@
 https://kodaktor.ru/08092017
 
 C9 account: https://c9.io/kazimgadjiev
+
+Ответ на 6-ой вопрос: https://drive.google.com/open?id=1iFHeCOFIHQjGQt1eCvzDNYZZvq_16iXI2zyNEbFtVJ8
